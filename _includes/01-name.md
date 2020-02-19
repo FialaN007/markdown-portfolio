@@ -1,2 +1,2 @@
-<h1>Nikita Fiala
+# Nikita Fiala
 <h2>Welcome to my portfolio
